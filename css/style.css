@@ -14,53 +14,15 @@
   background-color: rgb(231, 222, 90);
 }
 
-.first_square {
+.left {
   float: left;
-  margin: 20px 20px;
 }
 
-.second_square {
+.right {
   float: right;
-  margin: 20px 20px;
 }
 
-.square_three {
-  float: left;
-  margin: 20px 20px;
-}
-
-.square_four {
-  float: right;
-  margin: 20px 20px;
-}
-
-.square_five {
-  float: right;
-  margin: 20px 20px;
-}
-
-.square_six {
-  float: right;
-  margin: 20px 20px;
-}
-
-.square_seven {
-  float: left;
-  margin: 20px 20px;
-}
-
-.square_eight {
-  float: left;
-  margin: 20px 20px;
-}
-
-.square_nine {
-  float: right;
-  margin: 20px 20px;
-}
-
-.square_ten {
-  float: right;
+.indent {
   margin: 20px 20px;
 }
 
@@ -82,25 +44,8 @@
   margin-left: calc(50% - 100px);
 }
 
-.second_section {
-  float: left;
-  margin: 20px 20px;
-}
-
 .square_twelve {
   margin-top: 20px;
-}
-
-.third_section {
-  float: right;
-}
-
-.fourth_section {
-  float: right;
-}
-
-.square_thirteen {
-  margin: 20px 20px;
 }
 
 .square_fourteen {
